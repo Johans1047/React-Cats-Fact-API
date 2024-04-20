@@ -41,7 +41,7 @@ This repository contains the code for a technical test done using React. The tes
     ```npm start```
 
 
-This will start the application in your default browser. If it doesn't open automatically, you can access it by navigating to `http://localhost:3000` in your web browser.
+This will start the application in your default browser. If it doesn't open automatically, you can access it by navigating to `http://localhost:5173` in your web browser.
 
 ### Contributions
 
